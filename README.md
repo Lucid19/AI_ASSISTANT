@@ -1,5 +1,5 @@
 # AI ASSISTANT 🚀
-Designed as an ESP32 based board for TTS (Text to Speech) and STT (Speech to Text) communicating with AI API through enabled WiFi. Set up with an Electret Condenser Microphone and 1W speaker with an amplified signal.
+Designed as an ESP32 based board for TTS (Text to Speech) and STT (Speech to Text) communicating with AI API through enabled WiFi. Set up with an Electret Condenser Microphone and 1W speaker with an amplified signal. This board is suitable for hobbyists and is capable of being hand soldered.
 
 ## 📋 Features
 * ⚡ Input Voltage: 3.3V - 10V
