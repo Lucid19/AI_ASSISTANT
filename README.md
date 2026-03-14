@@ -1,7 +1,8 @@
-# [Project Name] 🚀
+# AI ASSISTANT 🚀
 > A brief one-sentence description of what this board does.
 
-![Board Render/Photo](link-to-your-image.png)
+![Board Render/Photo]
+
 
 ## 📋 Features
 * ⚡ Input Voltage: 3.3V - 10V
