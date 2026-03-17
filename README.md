@@ -9,6 +9,19 @@ Designed as an ESP32 based board for TTS (Text to Speech) and STT (Speech to Tex
 * 🔌 USB-C charging and programming
 
 ## 🔌 Pinout
+INTEGRATED
+* | GPIO01 | Microphone-Amplifier Input | ADC
+* | GPIO10 | DAC Audio Sync | I2S
+* | GPIO11 | Digital Audio Output to DAC | I2S
+* | GPIO12 | DAC Serial Clock | I2S
+* | GPIO45 | Blue LED | GPIO
+* | GPIO46 | Green LED | GPIO
+
+USB DIFFERENTIALS
+* | GPIO19 | Negative
+* | GPIO20 | Positive
+
+GENERAL 
 * | RX | UART | Do not connect during firmware update |
 * | TX | UART |
 * | GPIO35 | SPI/GENERIC | I/O
