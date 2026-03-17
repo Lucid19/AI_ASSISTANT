@@ -42,9 +42,10 @@ To upload code:
 
 ## 📦 Key Components
 * ESP32-S3-WROOM
-* TPC114S1-VR LDO Regulator
+* TPC114S1-VR DAC Converter
 * PAM8406DR Sound Amplifier
 * CMA-4544PF-W Electret Condenser Microphone
+* TPS77833 LDO Regulator
 * USB-C 16-pin Connector
 
 ## estimated price (as of 14/03/26)
